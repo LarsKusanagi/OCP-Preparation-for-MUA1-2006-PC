@@ -1,4 +1,6 @@
-This project is for a preparation on which files to be included or excluded in the Official Characters Pack and Expanded Game Edition, including for cut content.
+This project is for a preparation on which files to be included or excluded in the Official Characters Pack and Expanded Game Edition, including for cut content. It has two separate branches:
+* One (Main) is for the released files
+* Another is for sourced files (such as custom mesh mod models, and preview reskinned model and hud images).
 
 Link: https://github.com/ak2yny/Official-Character-Pack-v2-for-Ultimate-Alliance/
 
