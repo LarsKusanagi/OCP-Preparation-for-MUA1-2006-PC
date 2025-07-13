@@ -39,6 +39,8 @@ Skins & Models
   * Doom Iron Men: Ultimate & Classic
   * Dark Heroes (uses 7th-gen Models' in-game debut costume): Iron Man, Wolverine, Colossus, Captain America, Cyclops, Thor Odinson, Spider-Man, Fantastic Four
 * Updated Mannequins for MUA1 Official Characters + Cut Characters: TBA
+* Loading Screen:
+  * Kingpin's Screenshot for EXG: Originate from Contest of Champions
 
 Which needs to be downloaded elsewhere:
 * OCP Pack: Including skins the Keeper made by iammingy & EX Super Skrulls made by Dark_Mark
@@ -70,3 +72,6 @@ Credits:
 * Dark_Mark: EX/PSP Super Skrull Skin Texture conversion to original Super Skrull
 * Marquis: Previous Ultimate Doom Iron Man
 * UltimateNorman for Ultra Shocker Render Rips from Archives
+* Kabam: Contest of Champions
+* Activision-Blizzard and Ravensoft: X-Men Legends and Marvel Ultimate Alliance game series foundations
+* Marvel: Rights
