@@ -2,7 +2,7 @@ This project is for a preparation on which files to be included or excluded in t
 * One (Main) is for the released files which are ready to be playable in the game
 * Another is for sourced files (such as custom mesh mod model sourcess, and preview of model (reskin and mesh mod) and hud images).
 
-Link: https://github.com/ak2yny/Official-Character-Pack-v2-for-Ultimate-Alliance/
+Link to OCP Pack headed by ak2ny: https://github.com/ak2yny/Official-Character-Pack-v2-for-Ultimate-Alliance/
 
 For more screenshots taken in 2016 version, see here. Most of these may or may not be transisted between 2006 and 2016 version: https://steamcommunity.com/id/KL36720/screenshots/?appid=433300&sort=oldestfirst&browsefilter=myfiles&view=imagewall
 
