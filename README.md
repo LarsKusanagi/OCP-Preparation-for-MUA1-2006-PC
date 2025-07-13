@@ -26,21 +26,20 @@ Features:
   * All follows DLC Costume Slot Numbers, while Doom & Nightcrawler joins Character Slot Numbers as their DLC counterparts.
    * Due to his pre-DLC debut default costume is Ultimate, Astonishing costume is 4703, while Ultimate properly to 4701
 * 256 Hud Sizes: Daredevil & Modern Moon Knight
-
-Skins & Models
-* Actors:
-  * God Emperor Doom: Prototype Early Bird prior to Secret Wars 3 (2016)
-  * Updated Modern Moon Knight/4th Costume
-  * Updated Black Widow Costumes:
-    * Updated Modern Black Widow
-    * Leg weapons changes to "20102_knife_leg_segment" and "20102_pistolleg_segment"
-  * Updated Retro Luke Cage/4th Costume
-  * Dark Medusa: Given that she is corrupted by Doom. It's best for Classic Medusa to be in simulation only, just like how Psylocke could fit Nightcrawler's simulation
-  * Doom Iron Men: Ultimate & Classic
-  * Dark Heroes (uses 7th-gen Models' in-game debut costume): Iron Man, Wolverine, Colossus, Captain America, Cyclops, Thor Odinson, Spider-Man, Fantastic Four
-* Updated Mannequins for MUA1 Official Characters + Cut Characters: TBA
-* Loading Screen:
-  * Kingpin's Screenshot for EXG: Originate from Contest of Champions
+* Skins & Models
+  * Actors:
+    * God Emperor Doom: Prototype Early Bird prior to Secret Wars 3 (2016)
+    * Updated Modern Moon Knight/4th Costume
+    * Updated Black Widow Costumes:
+      * Updated Modern Black Widow
+      * Leg weapons changes to "20102_knife_leg_segment" and "20102_pistolleg_segment"
+    * Updated Retro Luke Cage/4th Costume
+    * Dark Medusa: Given that she is corrupted by Doom. It's best for Classic Medusa to be in simulation only, just like how Psylocke could fit Nightcrawler's simulation
+    * Doom Iron Men: Ultimate & Classic
+    * Dark Heroes (uses 7th-gen Models' in-game debut costume): Iron Man, Wolverine, Colossus, Captain America, Cyclops, Thor Odinson, Spider-Man, Fantastic Four
+  * Updated Mannequins for MUA1 Official Characters + Cut Characters: TBA
+  * Loading Screen:
+    * Kingpin's Screenshot for EXG: Originate from Contest of Champions
 
 Which needs to be downloaded elsewhere:
 * OCP Pack: Including skins the Keeper made by iammingy & EX Super Skrulls made by Dark_Mark
